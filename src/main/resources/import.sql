@@ -1,0 +1,3 @@
+insert into usuarios(usuario, password, rol)values ('profesor','$2a$12$X31KK0tVShvpNLuCFva6QeRWxHveDO8AskK6z7KPTopuXswPImHHW','username')
+insert into usuarios(usuario, password, rol)values ('alumno','$2a$12$FHtgp5.l3OdZNJ0xTjQiCu/ctXreB2rrZf6wbLP8WGDkhLyayqe5G','username')
+insert into usuarios(usuario, password, rol)values ('coordinador','$2a$12$o5Fs5GlMXTHg40bWWdQsJezjhC6qBFrS5OoKfJ5ei78lP7u2OEkfq','username')
